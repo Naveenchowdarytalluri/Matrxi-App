@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Matrxi-App/static/css/main.ab4ccf1d.css",
+    "main.js": "/Matrxi-App/static/js/main.2a252b4e.js",
+    "static/js/453.fe8e79e9.chunk.js": "/Matrxi-App/static/js/453.fe8e79e9.chunk.js",
+    "index.html": "/Matrxi-App/index.html",
+    "main.ab4ccf1d.css.map": "/Matrxi-App/static/css/main.ab4ccf1d.css.map",
+    "main.2a252b4e.js.map": "/Matrxi-App/static/js/main.2a252b4e.js.map",
+    "453.fe8e79e9.chunk.js.map": "/Matrxi-App/static/js/453.fe8e79e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab4ccf1d.css",
+    "static/js/main.2a252b4e.js"
+  ]
+}
